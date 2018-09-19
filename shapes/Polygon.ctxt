@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Polygon
+comment1.params=theSideLength
+comment1.target=Polygon(int)
+comment2.params=
+comment2.target=Polygon()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=void\ compilePolygon()
+numComments=5
