@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=n\ s\ z
+comment1.target=Card(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ setUsed()
+comment3.params=
+comment3.target=void\ setNotUsed()
+numComments=4

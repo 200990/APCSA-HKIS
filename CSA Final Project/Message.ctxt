@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=m\ w
+comment1.target=Message(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+comment3.params=
+comment3.target=java.lang.String\ getWho()
+numComments=4
